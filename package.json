@@ -1,0 +1,27 @@
+{
+  "name": "dspfb",
+  "version": "1.0.0",
+  "description": "FB DSP api mapping",
+  "main": "FBapi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarvesh71/dsp-api-map.git"
+  },
+  "author": "Sarvesh Chandoliya <sarvesh@kalagato.co>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarvesh71/dsp-api-map/issues"
+  },
+  "homepage": "https://github.com/sarvesh71/dsp-api-map#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "facebook-nodejs-business-sdk": "^7.0.0",
+    "logger": "0.0.1",
+    "morgan": "^1.10.0",
+    "path": "^0.12.7"
+  }
+}
